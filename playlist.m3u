@@ -4,10 +4,20 @@ https://svs.itworkscdn.net/lanatvlive/lana/playlist.m3u8
 #EXTINF:0,SAMA TV
 https://svs.itworkscdn.net/samatvlive/sama.smil/chunklist_b2000000.m3u8
 #EXTINF:0,MTV LB
-https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist_b3225000.m3u8
+https://cllive.itworkscdn.net/mtvlebanonlive/token=nva=1555079390~dirs=1~hash=0c08fc2ecc97c43af1f63/mtvlive.smil/chunklist_b3225000.m3u8
 #EXTINF:0,OTV LB
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/chunklist_b1025000_t64SFE=.m3u8
 #EXTINF:0,AD DRAMA
 https://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
 #EXTINF:0,DUBAI ONE
 http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
+#EXTINF:0,RUDAW
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist_b2000000.m3u8
+#EXTINF:0,STERK
+http://137.74.205.201/live2/sterk-3mbps.m3u8
+#EXTINF:0,AL ARABIYA
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/chunklist_b4500000.m3u8
+#EXTINF:0,AL HADATH
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist_b4500000.m3u8
+#EXTINF:0,DW AR
+https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-b.m3u8?sd=10&rebase=on
