@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0,LANA TV
+https://svs.itworkscdn.net/lanatvlive/lana/playlist.m3u8
+#EXTINF:0,SAMA TV
+https://svs.itworkscdn.net/samatvlive/sama.smil/chunklist_b2000000.m3u8
+#EXTINF:0,MTV LB
+https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist_b3225000.m3u8
+#EXTINF:0,OTV LB
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/chunklist_b1025000_t64SFE=.m3u8
+#EXTINF:0,AD DRAMA
+https://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
+#EXTINF:0,DUBAI ONE
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
