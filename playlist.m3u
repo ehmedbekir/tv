@@ -11,18 +11,32 @@ https://svs.itworkscdn.net/otvlebanonlive/otv.smil/chunklist_b1025000_t64SFE=.m3
 https://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
 #EXTINF:0,AD DRAMA
 https://adtv.ercdn.net/addrama/addrama_720p.m3u8
+#EXTINF:0,FUTURE 
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
 #EXTINF:0,DUBAI ONE
 http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
 #EXTINF:0,RUDAW
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist_b2000000.m3u8
 #EXTINF:0,STERK
 http://137.74.205.201/live2/sterk-3mbps.m3u8
+#EXTINF:0,MED MUZIK
+http://137.74.205.201/live3/mm-3mbps.m3u
+#EXTINF:0,NET TV
+https://5ab29cc78f681.streamlock.net:443/teratargetvideostream2nd/livestream/playlist.m3u8
+#EXTINF:0,KURDISTAN TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:0,TRT KURDI
 https://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_1250_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,AL ARABIYA
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/chunklist_b4500000.m3u8
 #EXTINF:0,AL HADATH
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist_b4500000.m3u8
+#EXTINF:0,RT ARABIC
+https://rt-arab.secure.footprint.net/1104-inadv-qidx-1k_v3.m3u8?stream_start_offset=14000000&stream_dvr_window=0
+#EXTINF:0,AL MAYADEEN
+http://live.mdn.tv/almayadeen/smil:mayadeen.smil/playlist.m3u8
+#EXTINF:0,FRANCE 24
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:0,SKY NEWS AR
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:0,AL JAZEERA
