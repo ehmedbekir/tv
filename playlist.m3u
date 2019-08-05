@@ -3,18 +3,12 @@
 https://svs.itworkscdn.net:443/lanatvlive/lana/chunklist_DVR.m3u8
 #EXTINF:0,Sama
 https://svs.itworkscdn.net:443/samatvlive/sama.smil/chunklist_b2000000.m3u8?v=
-#EXTINF:0,
+#EXTINF:0,MBC
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
-#EXTINF:0,MBC1 2
-http://iptv-line.com:6969/live/walid.shawky.eslsca@gmail.com/qrzAUDYrzP/4061.m3u8?v=
 #EXTINF:0,MBC4
 http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
-#EXTINF:0,MBC4 2
-http://iptv-line.com:6969/live/walid.shawky.eslsca@gmail.com/qrzAUDYrzP/4058.m3u8?v=
 #EXTINF:0,MBC Drama 
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
-#EXTINF:0,MBC Drama 2
-http://iptv-line.com:6969/live/walid.shawky.eslsca@gmail.com/qrzAUDYrzP/4058.m3u8?v=
 #EXTINF:0,Syria Drama 
 http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
 #EXTINF:0,Syria Drama 2
