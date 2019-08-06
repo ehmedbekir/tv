@@ -58,7 +58,7 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747613-b/747613/source1_2.5k/chun
 #EXTINF:0,Dubai 
 http://dmisxthvll.cdn.mangomolo.com:80/dubaitv/smil:dubaitv.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:0,Ronahi
-http://185.255.47.178:80//stream6/stream.m3u8
+http://185.255.47.178/stream.m3u8
 #EXTINF:0,NRT
 http://185.105.4.190:1935/NRTHD/ngrp:livestream_all/playlist.m3u8
 #EXTINF:0,MTV lb
