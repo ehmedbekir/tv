@@ -17,22 +17,30 @@ http://82.137.248.16:1935/Drama/stream20112018/chunklist.m3u8
 https://adtv.ercdn.net/adaloula/adaloula_720p.m3u8?v=36774130
 #EXTINF:0,AD Drama 
 https://adtv.ercdn.net/addrama/addrama_720p.m3u8?v=
+#EXTINF:0,MTV lb
+http://104.243.248.189:9075/channel1_h264/index.m3u8?token=
 #EXTINF:0,OTV lb
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/chunklist_b1025000_t64SFE=.m3u8
 #EXTINF:0,Al Jadeed
 http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
 #EXTINF:0,Future 
 http://futuretv.cdn.mangomolo.com:80/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
+#EXTINF:0,Dubai 
+http://dmisxthvll.cdn.mangomolo.com:80/dubaitv/smil:dubaitv.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:0,Dubai One 
 http://dminnvll.cdn.mangomolo.com:80/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:0,Rudaw 
 https://svs.itworkscdn.net:443/rudawlive/rudawlive.smil/chunklist_b2000000.m3u8
 #EXTINF:0,Kurdistan24
-https://k24mediaservice.streaming.mediaservices.windows.net:443/7bcb2cde-ae42-47d9-ae33-f9ab7f62047a/b2a4a847-5e6a-4069-ad18-58df07395f2a.ism/QualityLevels(1150000)/Manifest(video,format=m3u8-aapl-v4)
+https://k24mediaservice.streaming.mediaservices.windows.net/7bcb2cde-ae42-47d9-ae33-f9ab7f62047a/b2a4a847-5e6a-4069-ad18-58df07395f2a.ism/manifest(format=m3u8-aapl-v4)
+#EXTINF:0,Ronahi
+http://185.255.47.178:80//stream5/stream.m3u8
 #EXTINF:0,Sterk 
 http://137.74.205.201/live2/sterk-3mbps.m3u8
 #EXTINF:0,Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:0,NRT
+http://185.105.4.190:1935/NRTHD/ngrp:livestream_all/playlist.m3u8
 #EXTINF:0,TRT Kurdi
 https://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_720p_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,Al Arabiya
@@ -47,22 +55,14 @@ https://rt-arab-gd.secure2.footprint.net:443//1104_2500Kb.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8
 #EXTINF:0,BBC ar
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Sky News ar
+https://stream.skynewsarabia.com:443/hls/sna_720.m3u8
 #EXTINF:0,Al Jazeera 
 https://aja-hd-web-hls-live.secure.footprint.net:443/egress/chandler/aljazeera2/arabichd/index5000.m3u8
 #EXTINF:0,DW ar
 https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,Sky News ar
-https://stream.skynewsarabia.com:443/hls/sna_720.m3u8
 #EXTINF:0,Makan
 https://kanlivep2event-i.akamaihd.net/hls/live/747613-b/747613/source1_2.5k/chunklist.m3u8
-#EXTINF:0,Dubai 
-http://dmisxthvll.cdn.mangomolo.com:80/dubaitv/smil:dubaitv.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:0,Ronahi
-http://185.255.47.178/stream.m3u8
-#EXTINF:0,NRT
-http://185.105.4.190:1935/NRTHD/ngrp:livestream_all/playlist.m3u8
-#EXTINF:0,MTV lb
-http://104.243.248.189:9075/channel1_h264/index.m3u8?token=
 #EXTINF:0,AJ eng
 https://english.streaming.aljazeera.net:443/aljazeera/english2/index4147.m3u8
 #EXTINF:0,RT eng
