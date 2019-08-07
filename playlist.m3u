@@ -32,15 +32,15 @@ http://dminnvll.cdn.mangomolo.com:80/dubaione/smil:dubaione.stream.smil/chunklis
 #EXTINF:0,Rudaw 
 https://svs.itworkscdn.net:443/rudawlive/rudawlive.smil/chunklist_b2000000.m3u8
 #EXTINF:0,Kurdistan24
-https://k24mediaservice.streaming.mediaservices.windows.net/7bcb2cde-ae42-47d9-ae33-f9ab7f62047a/b2a4a847-5e6a-4069-ad18-58df07395f2a.ism/manifest(format=m3u8-aapl-v4)
+https://k24mediaservice.streaming.mediaservices.windows.net:443/7bcb2cde-ae42-47d9-ae33-f9ab7f62047a/b2a4a847-5e6a-4069-ad18-58df07395f2a.ism/QualityLevels(1150000)/Manifest(video,format=m3u8-aapl-v4)
 #EXTINF:0,Ronahi
 http://185.255.47.178:80//stream5/stream.m3u8
 #EXTINF:0,Sterk 
 http://137.74.205.201/live2/sterk-3mbps.m3u8
+#EXTINF:0,Med Muzik
+http://137.74.205.201/live3/mm-3mbps.m3u8
 #EXTINF:0,Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:0,NRT
-http://185.105.4.190:1935/NRTHD/ngrp:livestream_all/playlist.m3u8
 #EXTINF:0,TRT Kurdi
 https://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_720p_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,Al Arabiya
