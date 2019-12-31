@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,Lana 
-https://svs.itworkscdn.net:443/lanatvlive/lana/chunklist_DVR.m3u8
+https://svs.itworkscdn.net:443/lanatvlive/lana/chunks.m3u8
 #EXTINF:0,Sama
 https://svs.itworkscdn.net:443/samatvlive/sama.smil/chunklist_b2000000.m3u8?v=
 #EXTINF:0,MBC
