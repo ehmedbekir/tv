@@ -7,11 +7,23 @@ https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks.m3u8
 http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
 #EXTINF:0,SAMA
 https://svs.itworkscdn.net/samatvlive/sama.smil/samatv_720p_chunks.m3u8
-#EXTINF:0,MBC
-http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
+#EXTINF:0,MBC 
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
+#EXTINF:0,MBC2
+https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
 #EXTINF:0,MBC4
+https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
+#EXTINF:0,MBC DRAMA
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
+#EXTINF:0,MBC DRAMA+
+https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod_1.m3u8
+#EXTINF:0,MBC MAX
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
+#EXTINF:0,MBC SR2
+http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
+#EXTINF:0,MBC4 SR2
 http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
-#EXTINF:0,MBC Drama 
+#EXTINF:0,MBC Drama  SR2
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
 #EXTINF:0,MTV
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
@@ -45,6 +57,8 @@ https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
 https://shls-alarabiya-prod.shahid.net/alarabiya-prod_1.m3u8
 #EXTINF:0,AL HADATH
 https://av.alarabiya.net/alarabiapublish/alhadath_720p/chunks.m3u8
+#EXTINF:0,AL YAOUM
+http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014.m3u8
 #EXTINF:0,AL JAZEERA
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:0,SKY NEWS AR
