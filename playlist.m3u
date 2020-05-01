@@ -45,8 +45,6 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:0,RUDAW
 https://svs.itworkscdn.net:443/rudawlive/rudawlive.smil/chunklist_b2000000.m3u8
-#EXTINF:0 Kurdistan24
-https://k24mediaservice.streaming.mediaservices.windows.net/aea162c0-bd1f-4943-9701-c536af647243/5d852da8-8710-4c86-9d9d-e300c7d269d6.ism/manifest(format=mpd-time-csf)
 #EXTINF:0,STERK
 http://137.74.205.201/live25/live25.m3u8
 #EXTINF:0,MED MUZIK
