@@ -51,6 +51,8 @@ https://svs.itworkscdn.net:443/rudawlive/rudawlive.smil/chunklist_b2000000.m3u8
 http://137.74.205.201/live25/live25.m3u8
 #EXTINF:0,MED MUZIK
 http://137.74.205.201/live3/mm-3mbps.m3u8
+#EXTINF:0,KURDSAT
+https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
 #EXTINF:0,KURDISTAN TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w782169784_b1700000_sleng_t64MTA4MHA=.m3u8
 #EXTINF:0,AVA TV
