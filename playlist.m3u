@@ -21,6 +21,8 @@ https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
 https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod_1.m3u8
 #EXTINF:0,MBC MAX
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
+#EXTINF:0,MBC ACTION
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
 #EXTINF:0,MBC SR2
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
 #EXTINF:0,MBC4 SR2
