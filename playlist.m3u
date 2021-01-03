@@ -49,6 +49,8 @@ https://svs.itworkscdn.net:443/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
 https://d1x82nydcxndze.cloudfront.net:443/live/index_720p25.m3u8
 #EXTINF:0,STERK
 http://137.74.205.201/live24/live24.m3u8
+#EXTINF:0,MED MUZIK
+http://137.74.205.201/live3/mm-3mbps.m3u8
 #EXTINF:0,KURDSAT
 https://besttv601-iko-kurdstat.aoslive.it.best-tv.com:443/egress/bhandler/ikomg/kurdsat/chunklist_b3100672.m3u8
 #EXTINF:0,KURDISTAN
