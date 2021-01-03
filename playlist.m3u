@@ -64,7 +64,7 @@ https://live.alarabiya.net:443/alarabiapublish/alhadath.smil/alarabiapublish/alh
 #EXTINF:0,RT AR
 https://rt-arab.secure.footprint.net:443/1104_2500Kb.m3u8
 #EXTINF:0,SKY NEWS
-https://stream.skynewsarabia.com:443/vertical/vertical_1080.m3u8
+https://media.skynewsarabia.com:443/vod/smil:1393199.smil/chunklist_b3044100.m3u8
 #EXTINF:0,AL MAYADEEN
 https://mdnlv.cdn.octivid.com:443/almdn/smil:mpegts.stream.smil/chunklist_b1300000_t64NTc2cA==.m3u8
 #EXTINF:0,DW AR
