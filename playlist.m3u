@@ -4,9 +4,11 @@ https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8
 #EXTINF:0,LANA+
 https://stream.lanacanal.tv:5443/LiveApp/streams/201553893335555441819965.m3u8
 #EXTINF:0,SAMA
-http://138.201.33.161:8080/live/rgzfzfdh/zghzh/31.m3u8
+http://192.34.153.37:7777/SamaTV_HD/SamaTV_HD.m3u8
 #EXTINF:0,SY DRAMA
 http://82.137.248.16:1935/Drama/stream10112020/chunklist_w1990843294.m3u8
+#EXTINF:0,SYRIA
+http://82.137.248.16:1935/Sat/stream10112020/chunklist.m3u8
 #EXTINF:0,MBC 1
 https://shls-mbc1ksa-prod-dub.shahid.net:443/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
 #EXTINF:0,MBC 2
@@ -33,6 +35,10 @@ http://138.201.33.161:8080/live/rgzfzfdh/zghzh/34.m3u8
 http://178.132.3.162:88/OTV/video.m3u8?token=test
 #EXTINF:0,AL JADEED
 http://138.201.33.161:8080/live/rgzfzfdh/zghzh/33.m3u8
+#EXTINF:0,FUTURE
+https://futuretv.cdn.mangomolo.com:443/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
+#EXTINF:0,LBC
+https://shls-lbci-prod-dub.shahid.net:443/out/v1/d8cce30036e743318a7f338539689968/index_1.m3u8
 #EXTINF:0,NAT GEO AD
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:0,AD
