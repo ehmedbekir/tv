@@ -4,7 +4,7 @@ https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8
 #EXTINF:0,LANA+
 https://stream.lanacanal.tv:5443/LiveApp/streams/201553893335555441819965.m3u8
 #EXTINF:0,SAMA
-http://192.34.153.37:7777/SamaTV_HD/SamaTV_HD.m3u8?user=sgls540839&session=7cd856853cc1593f16d85e06d8ab1a94a6eefa53a290e593e5102d0b660d2df079dad3d6b43fbae9&hlsid=HTTP_ID_4&starttime=20200717T070353.789885
+&http://stream.sama-tv.net:8080/hls/samatv.m3u8?v=1599855636
 #EXTINF:0,SY DRAMA
 http://82.137.248.16:1935/Drama/stream10112020/chunklist_w1990843294.m3u8
 #EXTINF:0,SYRIA
