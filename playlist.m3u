@@ -30,11 +30,11 @@ https://shls-masr-prod-dub.shahid.net:443/out/v1/b7093401da27496797a8949de23f457
 #EXTINF:0,MBC MASR2
 https://shls-masr2-prod-dub.shahid.net:443/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 #EXTINF:0,MTV
-http://138.201.33.161:8080/live/rgzfzfdh/zghzh/34.m3u8
+http://135.181.129.232:8080/live/tdn/7672989137/10009.m3u8
 #EXTINF:0,OTV
 http://178.132.3.162:88/OTV/video.m3u8?token=test
 #EXTINF:0,ALJADEED
-http://138.201.33.161:8080/live/rgzfzfdh/zghzh/33.m3u8
+http://s1.teledunet.com:8080/live/tdn/7672989136/10008.m3u8
 #EXTINF:0,FUTURE
 https://futuretv.cdn.mangomolo.com:443/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
 #EXTINF:0,LBC
@@ -74,9 +74,9 @@ https://tv-trtkurdi.live.trt.com.tr:443/master_720.m3u8
 #EXTINF:0,AL JAZEERA
 https://live-hls-web-aja.getaj.net:443/AJA/01.m3u8
 #EXTINF:0,AL ARABIYA
-https://live.alarabiya.net:443/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya/chunks.m3u8
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
 #EXTINF:0,AL HADATH
-https://live.alarabiya.net:443/alarabiapublish/alhadath.smil/alarabiapublish/alhadath/chunks.m3u8
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
 #EXTINF:0,RT AR
 https://rt-arab.secure.footprint.net:443/1104_2500Kb.m3u8
 #EXTINF:0,SKY NEWS
