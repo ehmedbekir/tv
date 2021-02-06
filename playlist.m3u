@@ -30,7 +30,7 @@ https://shls-masr-prod-dub.shahid.net:443/out/v1/b7093401da27496797a8949de23f457
 #EXTINF:0,MBC MASR2
 https://shls-masr2-prod-dub.shahid.net:443/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 #EXTINF:0,MTV
-https://clvod.itworkscdn.net:443/mtvvod/smil:itwfcdn/mtvlebanon/1024990-R15Qz9RvXE45LAg.smil/index-f5-v1-a1.m3u8
+http://138.201.33.161:8080/live/rgzfzfdh/zghzh/141.m3u8
 #EXTINF:0,OTV
 http://178.132.3.162:88/OTV/video.m3u8?token=test
 #EXTINF:0,ALJADEED
