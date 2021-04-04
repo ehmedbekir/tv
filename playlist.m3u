@@ -2,7 +2,7 @@
 #EXTINF:0,LANA
 http://she3a.local-hd.com:8080/live/adam/520520/1543.m3u8
 #EXTINF:0,LANA+
-https://stream.lanacanal.tv:5443/LiveApp/streams/201553893335555441819965.m3u8
+https://stream.lanacanal.tv:444/hls/lanaplus.m3u8
 #EXTINF:0,SAMA
 http://stream.sama-tv.net:8080/hls/samatv.m3u8?v=1599855636
 #EXTINF:0,SY DRAMA
@@ -29,14 +29,6 @@ https://shls-mbcaction-prod-dub.shahid.net:443/out/v1/68dd761538e5460096c4242219
 https://shls-masr-prod-dub.shahid.net:443/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
 #EXTINF:0,MBC MASR2
 https://shls-masr2-prod-dub.shahid.net:443/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
-#EXTINF:0,MTV
-http://138.201.33.161:8080/live/rgzfzfdh/zghzh/141.m3u8
-#EXTINF:0,OTV
-http://178.132.3.162:88/OTV/video.m3u8?token=test
-#EXTINF:0,ALJADEED
-http://138.201.33.161:8080/live/rgzfzfdh/zghzh/140.m3u8
-#EXTINF:0,FUTURE
-https://futuretv.cdn.mangomolo.com:443/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
 #EXTINF:0,LBC
 https://shls-lbci-prod-dub.shahid.net:443/out/v1/d8cce30036e743318a7f338539689968/index_1.m3u8
 #EXTINF:0,NAT GEO AD
