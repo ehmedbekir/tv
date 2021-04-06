@@ -55,10 +55,6 @@ http://137.74.205.201/medmuzik/MedStream/chunklist_w1633359430.m3u8
 https://5aa8c7549bfa9.streamlock.net:443/liveTrans/ngrp:myStream2_all/chunklist_w1352403230_b1667072.m3u8?wowzacaptionlanguages=fra
 #EXTINF:0,NET TV
 http://nettvstreampaid.flashmediacast.com:1935/nettvstreampaid/livestream/chunklist_w620826897.m3u8
-#EXTINF:0,KURDSAT
-https://besttv601-iko-kurdstat.aoslive.it.best-tv.com:443/egress/bhandler/ikomg/kurdsat/chunklist_b3100672.m3u8
-#EXTINF:0,KURDSAT NEWS
-https://besttv602-iko-kurdstatnews.aoslive.it.best-tv.com:443/egress/bhandler/ikomg/kurdsat_news/chunklist_b3100672.m3u8
 #EXTINF:0,KURDISTAN
 https://5a3ed7a72ed4b.streamlock.net:443/live/SMIL:myStream.smil/chunklist_w1228990809_b1700000_sleng_t64MTA4MHA=.m3u8
 #EXTINF:0,TRT KURDI
@@ -73,8 +69,6 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadat
 https://rt-arab.secure.footprint.net:443/1104_2500Kb.m3u8
 #EXTINF:0,SKY NEWS
 https://stream.skynewsarabia.com:443/hls/sna_720.m3u8
-#EXTINF:0,ALYAOUM
-https://besttv650-myflix-alyaum.aoslive.it.best-tv.com/egress/bhandler/ikomg/alyaum_tv/chunklist_b2128000.m3u8
 #EXTINF:0,AL MAYADEEN
 https://mdnlv.cdn.octivid.com:443/almdn/smil:mpegts.stream.smil/chunklist_b1300000_t64NTc2cA==.m3u8
 #EXTINF:0,DW AR
