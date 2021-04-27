@@ -7,8 +7,12 @@ https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p
 http://stream.sama-tv.net:8080/hls/samatv.m3u8?720
 #EXTINF:0,SY DRAMA
 http://82.137.248.16:1935/Drama/stream19042021/playlist.m3u8
+#EXTINF:0,SY DRAMA s2
+http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria_drama
 #EXTINF:0,SYRIA
 http://82.137.248.16:1935/Sat/stream19042021/playlist.m3u8
+#EXTINF:0,SYRIA s2
+http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria
 #EXTINF:0,MBC 1
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
 #EXTINF:0,MBC 2
