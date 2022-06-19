@@ -48,7 +48,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarab
 #EXTINF:0,Alhadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
 #EXTINF:0,Sky News
-https://stream.skynewsarabia.com:443/vertical/vertical_1080.m3u8
+https://stream.skynewsarabia.com:443/hls/sna_720.m3u8
 #EXTINF:0,RT Arabic
 https://salam-2.rutube.ru/dive/river-1-402.rutube.ru/dDNx864fut_CxZLnXcwogA/stream/musang-703.brz.rutube.ru/vdPDsy1SI0GxD3kk7b40UQ/1655657170/1bf2ee9dc3e20b4cb5a7ed4833bd7cb2/1080p_stream.m3u8
 #EXTINF:0,DW
