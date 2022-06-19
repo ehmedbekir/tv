@@ -37,6 +37,10 @@ https://muzkurd.com/sterktv/sterk/chunklist_w131729077.m3u8
 https://live.karwan.tv/karwan.tv/waar-tv/playlist.m3u8
 #EXTINF:0,TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,Chira
+https://live.karwan.tv/karwan.tv/cira-tv/playlist.m3u8
+#EXTINF:0,Dohuk
+https://live.karwan.tv/karwan.tv/duhok-tv/playlist.m3u8
 #EXTINF:0,MED Muzik
 http://137.74.205.201/medmuzik/MedStream/chunklist_w346549820.m3u8
 #EXTINF:0,Kurdsat
