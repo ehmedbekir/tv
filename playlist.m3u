@@ -51,3 +51,5 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_
 https://salam-2.rutube.ru/dive/river-1-402.rutube.ru/dDNx864fut_CxZLnXcwogA/stream/musang-703.brz.rutube.ru/vdPDsy1SI0GxD3kk7b40UQ/1655657170/1bf2ee9dc3e20b4cb5a7ed4833bd7cb2/1080p_stream.m3u8
 #EXTINF:0,DW
 https://dwamdstream108.akamaized.net/hls/live/2017969/dwstream108/stream05/streamPlaylist.m3u8
+#EXTINF:0,Almayadeen
+https://mdnlv.cdn.octivid.com:443/almdn/smil:mpegts.stream.smil/chunklist_b3000000_t64NTQwcA==.m3u8
