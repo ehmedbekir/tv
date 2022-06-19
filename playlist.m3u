@@ -1,89 +1,53 @@
 #EXTM3U
-#EXTINF:0,LANA
-http://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
-#EXTINF:0,LANA+
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
-#EXTINF:0,SAMA
-http://stream.sama-tv.net:8080/hls/samatv.m3u8?720
-#EXTINF:0,SY DRAMA
-http://82.137.248.16:1935/Drama/stream19042021/playlist.m3u8
-#EXTINF:0,SY DRAMA s2
-http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria_drama
-#EXTINF:0,SYRIA
-http://82.137.248.16:1935/Sat/stream19042021/playlist.m3u8
-#EXTINF:0,SYRIA s2
-http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria
+#EXTINF:0,Lana
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8
+#EXTINF:0,Sama
+http://162.55.32.203:1935/live/_definst_/smil:mystream1.smil/chunklist_w1346883653_b2092100_slip,162,55,32,203,ip.m3u8
+#EXTINF:0,Syria Mahaliya
+http://82.137.248.16:1935/oLive/aloula05042022/chunklist_w648676953.m3u8
+#EXTINF:0,Syria
+http://82.137.248.16:1935/oLive/sat05042022/chunklist_w708719475.m3u8
+#EXTINF:0,Syria Drama
+http://82.137.248.16:1935/oLive/drama05042022/chunklist_w1929997290.m3u8
 #EXTINF:0,MBC 1
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
-#EXTINF:0,MBC 2
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
-#EXTINF:0,MBC 4
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:0,MBC 5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:0,MBC DRAMA
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-#EXTINF:0,MBC DRAMA+
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:0,MBC MAX
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
-#EXTINF:0,MBC ACTION
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
-#EXTINF:0,MBC MASR
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
-#EXTINF:0,MBC MASR2
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:0,LBC
-https://shls-lbci-prod-dub.shahid.net:443/out/v1/d8cce30036e743318a7f338539689968/index_1.m3u8
-#EXTINF:0,NAT GEO AD
+ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
+#EXTINF:0,MBC Drama
+ak.akamaized.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
+#EXTINF:0,MBC Drama Plus
+lusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+#EXTINF:0,MBC Masr
+ak.akamaized.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
+#EXTINF:0,MBC Masr2
+ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+#EXTINF:0,Nat Geo
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:0,AD
-https://admdn2ta.cdn.mangomolo.com:443/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:0,AD DRAMA
-https://admdn5ta.cdn.mangomolo.com:443/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:0,DUBAI ONE
-https://dminnvll.cdn.mangomolo.com:443/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:0,DUBAI ZAMAN
-https://dmiffthvll.cdn.mangomolo.com:443/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:0,RUDAW
-https://svs.itworkscdn.net:443/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
-#EXTINF:0,K24
-https://d1x82nydcxndze.cloudfront.net:443/live/index_720p25.m3u8
-#EXTINF:0,STERK
-https://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/chunklist_w379745284_b5160000_sleng.m3u8
-#EXTINF:0,RONAHI
-http://51.89.6.117/LiveApp/streams/912546730243290230820991.m3u8
-#EXTINF:0,MED MUZIK
-http://137.74.205.201/medmuzik/MedStream/chunklist_w1633359430.m3u8
-#EXTINF:0,KURDMAX
-https://5aa8c7549bfa9.streamlock.net:443/liveTrans/ngrp:myStream2_all/chunklist_w1352403230_b1667072.m3u8?wowzacaptionlanguages=fra
-#EXTINF:0,NET TV
-http://nettvstreampaid.flashmediacast.com:1935/nettvstreampaid/livestream/chunklist_w620826897.m3u8
-#EXTINF:0,KURDISTAN
-https://5a3ed7a72ed4b.streamlock.net:443/live/SMIL:myStream.smil/chunklist_w1228990809_b1700000_sleng_t64MTA4MHA=.m3u8
-#EXTINF:0,TRT KURDI
-https://tv-trtkurdi.live.trt.com.tr:443/master_720.m3u8
-#EXTINF:0,AL JAZEERA
-https://live-hls-web-aja.getaj.net:443/AJA/01.m3u8
-#EXTINF:0,AL ARABIYA
+#EXTINF:0,Dubai One
+https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:0,Dubai Zaman
+https://dmiffthvll.cdn.mgmlcdn.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:0,Rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
+#EXTINF:0,Kurdistan24
+https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
+#EXTINF:0,Sterk
+https://muzkurd.com/sterktv/sterk/chunklist_w131729077.m3u8
+#EXTINF:0,TRT Kurdi
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,MED Muzik
+http://137.74.205.201/medmuzik/MedStream/chunklist_w346549820.m3u8
+#EXTINF:0,Kurdsat
+http://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/manifest.m3u8
+#EXTINF:0,Kurdistan
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w136913874_b1700000_sleng_t64MTA4MHA=.m3u8
+#EXTINF:0,Gali Kurdistan
+https://live.bradosti.net/live/GaliKurdistan/index.m3u8
+#EXTINF:0,Aljazeera
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:0,Alarabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
-#EXTINF:0,AL HADATH
-https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
-#EXTINF:0,RT AR
-https://rt-arab.secure.footprint.net:443/1104_2500Kb.m3u8
-#EXTINF:0,SKY NEWS
-https://stream.skynewsarabia.com:443/hls/sna_720.m3u8
-#EXTINF:0,AL MAYADEEN
-https://mdnlv.cdn.octivid.com:443/almdn/smil:mpegts.stream.smil/chunklist_b1300000_t64NTc2cA==.m3u8
-#EXTINF:0,DW AR
-https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,FR 24
-http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
-#EXTINF:0,RT ENG
-https://rt-news-gd.secure2.footprint.net:443/1103_2500Kb.m3u8
-#EXTINF:0,RT DOC
-https://rt-doc-gd.secure2.footprint.net/1101_2500Kb.m3u8
-#EXTINF:0,AL JAZEERA EN
-https://live-hls-web-aje.getaj.net:443/AJE/01.m3u8
-#EXTINF:0,DW ENG
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,Alhadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
+#EXTINF:0,RT Arabic
+https://salam-2.rutube.ru/dive/river-1-402.rutube.ru/dDNx864fut_CxZLnXcwogA/stream/musang-703.brz.rutube.ru/vdPDsy1SI0GxD3kk7b40UQ/1655657170/1bf2ee9dc3e20b4cb5a7ed4833bd7cb2/1080p_stream.m3u8
+#EXTINF:0,DW
+https://dwamdstream108.akamaized.net/hls/live/2017969/dwstream108/stream05/streamPlaylist.m3u8
