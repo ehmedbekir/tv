@@ -33,6 +33,8 @@ https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
 http://51.89.6.117/LiveApp/streams/912546730243290230820991.m3u8
 #EXTINF:0,Sterk
 https://muzkurd.com/sterktv/sterk/chunklist_w131729077.m3u8
+#EXTINF:0,Waar
+https://live.karwan.tv/karwan.tv/waar-tv/playlist.m3u8
 #EXTINF:0,TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,MED Muzik
@@ -43,6 +45,8 @@ http://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/manifest
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w136913874_b1700000_sleng_t64MTA4MHA=.m3u8
 #EXTINF:0,Gali Kurdistan
 https://live.bradosti.net/live/GaliKurdistan/index.m3u8
+#EXTINF:0,Zarok
+https://live.karwan.tv/karwan.tv/zarok-tv/playlist.m3u8
 #EXTINF:0,Aljazeera
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:0,Alarabiya
