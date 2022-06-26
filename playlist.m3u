@@ -25,11 +25,6 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000
 https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:0,Dubai Zaman
 https://dmiffthvll.cdn.mgmlcdn.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:0,MTV
-http://elahmad.ipslow.com:8080/aaa_4_mtv_lebanon/tracks-v1a1/mono.m3u8
-#EXTINF:0,Aljadeed
-http://elahmad.ipslow.com:8080/aaa_4_aljadeed_1/tracks-v1a1/mono.m3u8
-#EXTINF:0,OTV
 http://elahmad.ipslow.com:8080/aaa_4_otv_lebanon_1/tracks-v1a1/mono.m3u8
 #EXTINF:0,LBC
 http://elahmad.ipslow.com:8080/aaa_4_lbc/tracks-v1a1/mono.m3u8
