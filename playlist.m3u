@@ -57,8 +57,6 @@ https://mcdn.daserste.de/daserste/de/master.m3u8
 https://swrrpd-hls.akamaized.net/hls/live/2018676-b/swrrpd/master-720p-3328.m3u8
 #EXTINF:0,Phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-#EXTINF:0,N-tv
-https://pntvlive-a.akamaized.net/live/ntvhome/hls/ntvhome.m3u8
 #EXTINF:0,Tagesschau 
 https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master-720p-3328.m3u8
 #EXTINF:0,Welt
