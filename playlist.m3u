@@ -21,6 +21,12 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000
 http://162.55.32.203:1935/live/smil:mystream1.smil/chunklist_w1799069252_b2092100_slip,162,55,32,203,ip.m3u8
 #EXTINF:0,Lana TV 
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
+#EXTINF:0,Lana +
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
+#EXTINF:0, Syria Drama 
+http://82.137.248.16:1935/oLive/drama05042022/chunklist_w2197242.m3u8
+#EXTINF:0, Syria 
+http://82.137.248.16:1935/oLive/sat05042022/chunklist_w264673288.m3u8
 #EXTINF:0,MTV Lebanon
 https://1537084837.rsc.cdn77.org/1537084837/tracks-v1a1/mono.m3u8
 #EXTINF:0,Al Jazeera
