@@ -19,10 +19,6 @@ http://admdn2.cdn.mangomolo.com:80/adtv/smil:adtv.stream.smil/chunklist_b4000000
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:0,Sama Syria
 http://162.55.32.203:1935/live/smil:mystream1.smil/chunklist_w1799069252_b2092100_slip,162,55,32,203,ip.m3u8
-#EXTINF:0,Syria TV 
-http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
-#EXTINF:0,Syria Drama 
-http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
 #EXTINF:0,Lana TV 
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
 #EXTINF:0,MTV Lebanon
@@ -62,7 +58,7 @@ https://swrrpd-hls.akamaized.net/hls/live/2018676-b/swrrpd/master-720p-3328.m3u8
 #EXTINF:0,Phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:0,N-tv
-https://pntvlive-a.akamaized.net:443/live/ntvhome/hls/2.m3u8
+https://pntvlive-a.akamaized.net/live/ntvhome/hls/ntvhome.m3u8
 #EXTINF:0,Tagesschau 
 https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master-720p-3328.m3u8
 #EXTINF:0,Welt
